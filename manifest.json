@@ -1,1 +1,7 @@
-{"title":"Element Status Sharing","description":"Select model objects, track status and seven coating stages, export CSV.","url":"https://github.com/rushij95/trimble-status-coatings-plugin/index.html","icon":"https://github.com/rushij95/trimble-status-coatings-plugin/icon.png","extensionType":["viewer"]}
+{
+  "title": "Status & Coatings Tracker",
+  "description": "Track construction status, seven coating stages and comments for selected model elements.",
+  "url": "https://rushij95.github.io/trimble-status-coatings-plugin/index.html",
+  "icon": "https://rushij95.github.io/trimble-status-coatings-plugin/icon.png",
+  "extensionType": ["3dviewer"]
+}
